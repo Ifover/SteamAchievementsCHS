@@ -24,4 +24,5 @@
 | 614570  | 耻辱：界外魔之死<br/>Dishonored®: Death of the Outsider | 30  | 繁体 |
 | 379720  | DOOM | 54  | 繁体 |
 | 203160  | 古墓丽影9<br/>Tomb Raider | 50  | 繁体 |
+| 211420  | 黑暗之魂：受死版<br/>Dark Souls: Prepare to Die Edition | 41  | 繁体 |
 | 335300  | 黑暗之魂Ⅱ：原罪学者<br/>DARK SOULS™ II: Scholar of the First Sin | 38  | 繁体 |
