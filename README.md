@@ -8,18 +8,20 @@
 比如`D:\Program Files\Steam\appcache\stats`
 
 
-<font color=#FF0000 >**文件右键 - 属性，勾选只读 保存**</font>
+**文件右键 - 属性，勾选只读 保存**
 
-<font color=#FF0000 >**然后重启Steam客户端!**</font>
+
+**然后重启Steam客户端!**
 
 ## 游戏列表
 
-| Steam ID | 游戏名称                                                         | 成就数 | 备注  |
+| Steam ID | 游戏名称                                                         | 成就数 | 来源  |
 | -------- | ------------------------------------------------------------ | --- | --- |
-| 489830   | 上古卷轴5：天际 特别版<br/>The Elder Scrolls V: Skyrim Special Edition | 75  |     |
-| 250900   | 以撒的结合：重生<br/>The Binding of Isaac: Rebirth | 641 |     |
-| 1222140  | 底特律：化身为人<br/>Detroit: Become Human | 48  |     |
-| 377160  | 辐射4<br/>Fallout 4 | 84  |     |
-| 614570  | 耻辱：界外魔之死<br/>Dishonored®: Death of the Outsider | 30  |     |
-| 379720  | DOOM | 54  |     |
-| 203160  | 古墓丽影9<br/>Tomb Raider | 50  |     |
+| 489830   | 上古卷轴5：天际 特别版<br/>The Elder Scrolls V: Skyrim Special Edition | 75  | 繁体 |
+| 250900   | 以撒的结合：重生<br/>The Binding of Isaac: Rebirth | 641 | [WIKI](https://isaac.huijiwiki.com/wiki/%E6%88%90%E5%B0%B1) |
+| 1222140  | 底特律：化身为人<br/>Detroit: Become Human | 48  | 繁体 |
+| 377160  | 辐射4<br/>Fallout 4 | 84  | 繁体 |
+| 614570  | 耻辱：界外魔之死<br/>Dishonored®: Death of the Outsider | 30  | 繁体 |
+| 379720  | DOOM | 54  | 繁体 |
+| 203160  | 古墓丽影9<br/>Tomb Raider | 50  | 繁体 |
+| 335300  | 黑暗之魂Ⅱ：原罪学者<br/>DARK SOULS™ II: Scholar of the First Sin | 38  | 繁体 |
