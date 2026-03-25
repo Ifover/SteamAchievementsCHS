@@ -1,0 +1,2 @@
+# SteamAchievementsCHS
+对一些Steam游戏简中成就的添加
