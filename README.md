@@ -2,15 +2,17 @@
 
 对一些Steam游戏简中成就的添加
 
-使用方法
+## 使用方法
 把`UserGameStatsSchema_489830.bin`文件放到`...\Steam\appcache\stats`文件夹下
 
 比如`D:\Program Files\Steam\appcache\stats`
 
-记得对文件右键属性做只读设置! 记得对文件右键属性做只读设置!
 
-然后重启Steam客户端! 然后重启Steam客户端! 
+<font color=#FF0000 >**文件右键 - 属性，勾选只读 保存**</font>
 
+<font color=#FF0000 >**然后重启Steam客户端!**</font>
+
+## 游戏列表
 
 | Steam ID | 游戏名称                                                         | 成就数 | 备注  |
 | -------- | ------------------------------------------------------------ | --- | --- |
@@ -20,3 +22,4 @@
 | 377160  | 辐射4<br/>Fallout 4 | 84  |     |
 | 614570  | 耻辱：界外魔之死<br/>Dishonored®: Death of the Outsider | 30  |     |
 | 379720  | DOOM | 54  |     |
+| 203160  | 古墓丽影9<br/>Tomb Raider | 50  |     |
