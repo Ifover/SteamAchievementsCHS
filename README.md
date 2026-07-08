@@ -3,7 +3,7 @@
 对一些Steam游戏简中成就的添加
 
 ## 使用方法
-把`UserGameStatsSchema_489830.bin`文件放到`...\Steam\appcache\stats`文件夹下
+把`UserGameStatsSchema_[Steam ID].bin`文件放到`...\Steam\appcache\stats`文件夹下
 
 比如`D:\Program Files\Steam\appcache\stats`
 
