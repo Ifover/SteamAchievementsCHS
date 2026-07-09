@@ -27,3 +27,4 @@
 | 211420  | 黑暗之魂：受死版<br/>Dark Souls: Prepare to Die Edition | 41  | 繁体 |
 | 335300  | 黑暗之魂Ⅱ：原罪学者<br/>DARK SOULS™ II: Scholar of the First Sin | 38  | 繁体 |
 | 457140  | 缺氧<br/>Oxygen Not Included                                    | 51  | [WIKI](https://oxygennotincluded.wiki.gg/zh/wiki/%E6%88%90%E5%B0%B1) |
+| 1259420  | 往日不再<br/>Days Gone                                            | 67  | 繁体 |
