@@ -2,6 +2,8 @@
 
 对一些Steam游戏简中成就的添加
 
+国内用户访问较慢或下载失败，可使用 Gitee 镜像： https://gitee.com/Ifover/SteamAchievementsCHS
+
 ## 使用方法
 把`UserGameStatsSchema_[Steam ID].bin`文件放到`...\Steam\appcache\stats`文件夹下
 
