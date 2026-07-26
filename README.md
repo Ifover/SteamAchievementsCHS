@@ -30,3 +30,5 @@
 | 335300  | 黑暗之魂Ⅱ：原罪学者<br/>DARK SOULS™ II: Scholar of the First Sin | 38  | 繁体 |
 | 457140  | 缺氧<br/>Oxygen Not Included                                    | 51  | [WIKI](https://oxygennotincluded.wiki.gg/zh/wiki/%E6%88%90%E5%B0%B1) |
 | 1259420  | 往日不再<br/>Days Gone                                            | 67  | 繁体 |
+
+| 394360   | 钢铁雄心4<br/>Hearts of Iron IV | 293 | 简体 |
