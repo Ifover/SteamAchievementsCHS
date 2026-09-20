@@ -1,5 +1,11 @@
 # SteamAchievementsCHS
 
+> [!WARNING]  
+> **2026年09月17日**之后，直接替换方式已失效，可能需要借助别的工具  
+> 请自行研究  
+> https://github.com/GaBoron/SATLI
+
+
 对一些Steam游戏简中成就的添加
 
 国内用户访问较慢或下载失败，可使用 Gitee 镜像： https://gitee.com/Ifover/SteamAchievementsCHS
